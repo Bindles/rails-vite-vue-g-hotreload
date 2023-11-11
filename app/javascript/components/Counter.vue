@@ -17,8 +17,7 @@ export default {
 };
 </script>
 <style lang="css">
-#button {
-    background-color: red;
-}
+#counter-button {
+  background-color: red;
 }
 </style>
